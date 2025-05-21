@@ -39,8 +39,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akshaykumar33&show_icons=true&locale=en" alt="akshaykumar33" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar33&" alt="akshaykumar33" /></p>
-
 
 <!---
 akshaykumar33/akshaykumar33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
