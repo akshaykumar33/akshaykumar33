@@ -10,7 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaykumar33&label=Profile%20views&color=0e75b6&style=flat" alt="akshaykumar33" /> </p>
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/akshaykumarpatil33/?edit=true](https://www.crio.do/learn/portfolio/akshaykumarpatil33/?edit=true)
+- 👨‍💻 All of my projects are available at [https://www.crio.do/learn/portfolio/akshaykumarpatil33/](https://www.crio.do/learn/portfolio/akshaykumarpatil33/)
 
 - 💬 Ask me about **react,java,c#,nodejs**
 
