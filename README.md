@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **react,java,c#,nodejs**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18ytrEz5qJCAIjk9qmDmi37xA753CAtFG/view?usp=sharing](https://drive.google.com/file/d/18ytrEz5qJCAIjk9qmDmi37xA753CAtFG/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/18ytrEz5qJCAIjk9qmDmi37xA753CAtFG/view?usp=sharing](https://drive.google.com/drive/u/0/folders/1Ekjv5T2AI-I7PT3v5aYU2PO6Sknak8Sr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
