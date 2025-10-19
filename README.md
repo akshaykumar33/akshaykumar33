@@ -177,6 +177,13 @@
 
 ---
 
+### 🔥 Streaks
+<p align="center">
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar33&" alt="akshaykumar33" />
+</p>
+
+---
+
 <p align="center">
   <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
 </p>
