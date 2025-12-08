@@ -1,193 +1,241 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+# 🚀 Akshaykumar Patil – Senior Software Engineer
 
-<h1 align="center">Hi 👋, I'm Akshaykumar Patil</h1>
-<h3 align="center">Passionate Full-Stack Developer from India</h3>
+<h1 align="center">👋 Hi, I'm Akshaykumar Patil</h1>
+<h3 align="center">Passionate Full-Stack Developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding Illustration" width="400" style="margin-left: 20px; margin-bottom: 30px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Crafting+Scalable+Web+Solutions;MERN+Stack+Specialist;Clean+Code+Advocate;Problem+Solver;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+  </a>
+</p>
+
+<img align="right" alt="Coding Illustration" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=akshaykumar33&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=akshaykumar33&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/akshaykumar33?tab=followers">
+    <img src="https://img.shields.io/github/followers/akshaykumar33?label=Followers&style=social" alt="GitHub followers" />
+  </a>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
+
 - 🌱 Currently deepening expertise in **MERN stack**, focusing on React, Node.js, and Database Design  
+- 🔭 Working on scalable web applications and microservices architecture
 - 💬 Ask me about **React, Java, C#, Node.js, and System Architecture**  
+- 📫 How to reach me: [Email](mailto:akshaykumarpatil33@gmail.com) | [LinkedIn](https://linkedin.com/in/akshaykumarpatil)
 - 🔗 [Portfolio](https://www.crio.do/learn/portfolio/akshaykumarpatil33/)  
 - 📄 [Resume](https://drive.google.com/file/d/1D0yM35shJIDHKfwc5K5AAmSqyxor2ZhT/view?usp=sharing)
 
+```javascript
+const akshay = {
+  pronouns: "he/him",
+  code: ["JavaScript", "TypeScript", "Java", "C#", "Python"],
+  technologies: {
+    frontend: ["React", "Redux", "Tailwind CSS", "Sass"],
+    backend: ["Node.js", "Express", "NestJS"],
+    database: ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    devOps: ["Docker", "Kubernetes", "AWS", "Azure", "Jenkins"],
+    mobile: ["React Native"],
+    testing: ["Jest", "Cypress", "Mocha"]
+  },
+  architecture: ["Microservices", "Serverless", "MVC", "REST APIs"],
+  currentFocus: "Building scalable full-stack applications with MERN",
+  motto: "Code. Deploy. Improve. Repeat."
+};
+```
+
 ---
 
-### 🌐 Connect & Follow Me
-<p align="left">
-  <a href="https://linkedin.com/in/akshaykumarpatil" target="_blank" rel="noopener" title="LinkedIn Profile">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" style="margin-right:10px;"/>
-  </a>
-  <a href="https://codeforces.com/profile/akshaykumarpatil33" target="_blank" rel="noopener" title="Codeforces Profile">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" style="margin-right:10px;"/>
-  </a>
-  <a href="https://leetcode.com/akshaykumarpatil33" target="_blank" rel="noopener" title="LeetCode Profile">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" style="margin-right:10px;"/>
-  </a>
-</p>
+## 🚀 Skills & Technologies
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+### 🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E434AA?style=for-the-badge&logo=graphql&logoColor=white)
 
 ---
 
-### 🛠️ Languages & Tools
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noopener" title="Blender">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noopener" title="C Programming">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener" title="C++">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noopener" title="C#">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener" title="CSS3">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noopener" title="Cypress">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener" title="Docker">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noopener" title=".NET">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noopener" title="Express.js">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener" title="Firebase">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener" title="Git">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noopener" title="GraphQL">
-    <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener" title="HTML5">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://jasmine.github.io/" target="_blank" rel="noopener" title="Jasmine">
-    <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="Jasmine" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noopener" title="Java">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener" title="JavaScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank" rel="noopener" title="Jenkins">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noopener" title="Jest">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noopener" title="Kubernetes">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noopener" title="Linux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://mochajs.org" target="_blank" rel="noopener" title="Mocha">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener" title="MongoDB">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener" title="Microsoft SQL Server">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="MSSQL" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener" title="MySQL">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener" title="Node.js">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noopener" title="Postman">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener" title="React">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noopener" title="React Native">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noopener" title="Redux">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noopener" title="Sass">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noopener" title="SQLite">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener" title="Tailwind CSS">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener" title="TypeScript">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noopener" title="Unity">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://unrealengine.com/" target="_blank" rel="noopener" title="Unreal Engine">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" alt="Unreal Engine" width="40" height="40" style="margin-right:12px;"/>
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noopener" title="Microsoft Azure">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" width="40" height="40" style="margin-right:12px;" />
-</a>
+## 📊 GitHub Stats
 
-<a href="https://redis.io" target="_blank" rel="noopener" title="Redis">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" style="margin-right:12px;" />
-</a>
+<div align="center">
 
-<a href="https://aws.amazon.com" target="_blank" rel="noopener" title="Amazon Web Services (AWS)">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" style="margin-right:12px;" />
-</a>
-<a href="https://www.postgresql.org" target="_blank" rel="noopener" title="PostgreSQL">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-right:12px;" />
-</a>
+  <!-- GitHub Trophies - This usually works -->
+  <img src="https://github-profile-trophy.vercel.app/?username=akshaykumar33&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  
+</div>
 
+<div align="center">
+  
+  <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+  
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  
+  <!-- Simple Activity Graph -->
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaykumar33&theme=github&area=true&hide_border=true)
+  
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/akshaykumarpatil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.crio.do/learn/portfolio/akshaykumarpatil33/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://leetcode.com/akshaykumarpatil33" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://codeforces.com/profile/akshaykumarpatil33" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="mailto:akshaykumarpatil33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akshaykumar33&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+## 🌟 Featured Projects
+
+### 🏗️ Full-Stack Applications
+- **E-commerce Platform** - MERN stack with payment integration
+- **Real-time Chat App** - Socket.io, React, Node.js
+- **Task Management System** - Microservices architecture
+- **API Gateway** - Node.js, Express, Redis caching
+
+### 🔧 Tools & DevOps
+- **CI/CD Pipeline** - Docker, Jenkins, Kubernetes
+- **Monitoring Dashboard** - Grafana, Prometheus
+
+### 📱 Mobile Apps
+- **Fitness Tracker** - React Native, Firebase
+- **Expense Manager** - React Native, SQLite
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaykumar33&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaykumar33&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+## 📚 Currently Learning
+
+```yaml
+current_focus:
+  - Advanced Kubernetes Patterns
+  - GraphQL with Apollo
+  - Micro-frontends Architecture
+  - Serverless Framework
+  
+plan_to_learn:
+  - Go Lang
+  - Rust Programming
+  - Advanced AWS Services
+  - System Design Patterns
+```
 
 ---
 
-### 🔥 Streaks
-<p align="center">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=akshaykumar33&" alt="akshaykumar33" />
-</p>
+## 📊 Weekly Development Breakdown
+
+```text
+TypeScript     ████████████░░░░░░░░░░░░░   45.2%
+JavaScript     ████████░░░░░░░░░░░░░░░░░   32.1%
+Java           ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+Python         ██░░░░░░░░░░░░░░░░░░░░░░░   06.8%
+C#             █░░░░░░░░░░░░░░░░░░░░░░░░   03.4%
+```
 
 ---
 
-<p align="center">
-  <em>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</em>
-</p>
+## 📈 GitHub Metrics
 
-<p align="center">
-  Thanks for visiting! 😄
-</p>
+<div align="center">
+  
+  ![GitHub Metrics](https://metrics.lecoq.io/akshaykumar33?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FKolkata)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💡 Random Dev Quote
+  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
+  
+  <p>
+    <em>Thanks for visiting! Let's build something amazing together! 🚀</em>
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=akshaykumar33&label=Visitors&color=blue&style=flat" alt="Visitor Counter" />
+    <a href="https://github.com/akshaykumar33?tab=repositories">
+      <img src="https://img.shields.io/badge/Repositories-25+-blue?style=flat" alt="Repositories" />
+    </a>
+    <a href="https://github.com/akshaykumar33?tab=stars">
+      <img src="https://img.shields.io/badge/Stars-100+-yellow?style=flat" alt="Stars" />
+    </a>
+  </p>
+  
+</div>
