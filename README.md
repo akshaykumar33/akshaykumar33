@@ -28,7 +28,7 @@
 - 💬 Ask me about **React, Java, C#, Node.js, and System Architecture**  
 - 📫 How to reach me: [Email](mailto:akshaykumarpatil33@gmail.com) | [LinkedIn](https://linkedin.com/in/akshaykumarpatil)
 - 🔗 [Portfolio](https://portfolio-ashen-eight-55.vercel.app/)  
-- 📄 [Resume](https://drive.google.com/file/d/1D0yM35shJIDHKfwc5K5AAmSqyxor2ZhT/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/15cxaKWdq-Q63afpvuMqPUvTW3Goo7CR1/view?usp=sharing)
 
 ```javascript
 const akshay = {
